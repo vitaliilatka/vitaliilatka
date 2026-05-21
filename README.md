@@ -35,7 +35,7 @@ Currently building small real-world projects and learning backend fundamentals.
 - Deployed backend on Render
 
 🔗 Repo: https://github.com/vitaliilatka/player-stats  
-🌍 Live: https://playersstats.netlify.app
+🌍 Live: https://player-connects.onrender.com/
 
 ---
 
